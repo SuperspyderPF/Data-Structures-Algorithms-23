@@ -1,0 +1,1 @@
+var uncommonFromSentences = (a, b) =>`${a} ${b}`.split(' ').filter(word =>0 ===` ${a} ${b} `.indexOf(` ${word} `) -` ${a} ${b} `.lastIndexOf(` ${word} `),)
